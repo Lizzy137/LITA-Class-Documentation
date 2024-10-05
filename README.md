@@ -2,6 +2,11 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#Project-Overview)
+[Data Sources](#Data-Sources)
+[Tools Used](#Tools-Used)
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insights into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insights gotten and to know the best performance from our data.
@@ -42,3 +47,22 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
      SELECT * FROM TABLE1
      WHERE CONDITION = TRUE
      ```
+
+### Data Visualization
+
+
+
+
+
+
+
+
+
+
+😆
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table2|Table3|
